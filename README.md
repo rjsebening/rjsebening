@@ -3,8 +3,6 @@
 🚀 **Business Automation Expert | Creator of n8n Nodes for the DACH Market**  
 ✨ Helping agencies, coaches & consultants replace manual work with seamless systems  
 
----
-
 ## 🌍 About Me
 
 I’m **Rezk Jörg Sebening**, and my mission is simple:  
@@ -17,8 +15,6 @@ That’s why I build:
 - ⚡ **Automation Systems** – end-to-end setups that connect tools & processes  
 - 🔌 **Custom n8n Nodes** – integrations for SaaS tools used daily in the DACH market  
 - 🎯 **Excellence Processes** – workflows that scale without hiring more staff  
-
----
 
 ## 🛠 Featured Work (Pinned Repos)
 
@@ -35,7 +31,6 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
 
 More coming soon… 🚀
 
----
 
 ## ✨ My Vision
 
@@ -46,14 +41,10 @@ I’m building towards a world where:
 - Businesses **deliver excellence** without extra overhead  
 - **Automation replaces repetition** — so humans can focus on creativity & impact  
 
----
-
 ## 📬 Let’s Connect
 
 💻 Website: [systeme-optimieren.de](https://systeme-optimieren.de)  
 📸 Instagram: [@joerg_sebening](https://instagram.com/joerg_sebening)  
-💼 LinkedIn: [Jörg Sebening | Automatisierungen & Systeme]([https://linkedin.com/in/rezkjoergsebening])  
+💼 LinkedIn: [Jörg Sebening | Automatisierungen & Systeme](https://linkedin.com/in/rezkjoergsebening)  
 
 👉 Follow me here on GitHub to stay up-to-date with my latest **n8n integrations** & **automation projects**.
-
----
