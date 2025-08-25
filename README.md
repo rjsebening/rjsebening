@@ -23,11 +23,9 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
 - [**n8n-nodes-leadtable**](https://github.com/rjsebening/n8n-nodes-leadtable)  
   *Seamless integration with LeadTable – automate lead workflows without Zapier or Make.*
   
-<!-- 
-
 - [**n8n-nodes-memberspot**](https://github.com/rjsebening/n8n-nodes-memberspot)  
   *Connect Memberspot with n8n – power up your online academy workflows.*
-
+<!-- 
 - [**n8n-nodes-learningsuite**](https://github.com/rjsebening/n8n-nodes-learningsuite)  
   *LearningSuite automation – smart workflows for coaches & trainers.*
   -->
