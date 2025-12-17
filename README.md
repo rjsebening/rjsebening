@@ -24,7 +24,13 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
   *LearningSuite automation – smart workflows for coaches & trainers.*
 
 - [**n8n-nodes-umsatzio**](https://github.com/rjsebening/n8n-nodes-umsatzio)  
-  *Umsatz.io CRM automation*
+  *Umsatz.io CRM automation - the first CRM built on the Setter-Closer principle*
+
+- [**n8n-nodes-easybill-api**](https://github.com/rjsebening/n8n-nodes-easybill-api)  
+  *Billing System automation with Easybill API*
+
+- [**n8n-nodes-evolution-api**](https://github.com/rjsebening/n8n-nodes-evolution-api)  
+  *WhatsApp automation with Evolution API*
   
 - [**n8n-nodes-leadtable**](https://github.com/rjsebening/n8n-nodes-leadtable)  
   *Seamless integration with LeadTable – automate lead workflows without Zapier or Make.*
