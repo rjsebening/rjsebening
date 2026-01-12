@@ -29,6 +29,9 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
 - [**n8n-nodes-easybill-api**](https://github.com/rjsebening/n8n-nodes-easybill-api)  
   *Billing System automation with Easybill API*
 
+- [**n8n-nodes-onepage**](https://github.com/rjsebening/n8n-nodes-onepage)  
+  *Triggers n8n workflows on new form submissions to route, enrich and process leads across your automation stack.*
+
 - [**n8n-nodes-evolution-api**](https://github.com/rjsebening/n8n-nodes-evolution-api)  
   *WhatsApp automation with Evolution API*
   
@@ -38,8 +41,11 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
 - [**n8n-nodes-memberspot**](https://github.com/rjsebening/n8n-nodes-memberspot)  
   *Connect Memberspot with n8n – power up your online academy workflows.*
 
-  
-More coming soon… 🚀
+
+More nodes & systems in progress.
+Everything here is built with one principle in mind:
+
+> Systems should scale. Humans shouldn’t repeat.
 
 
 ## ✨ My Vision
