@@ -23,8 +23,13 @@ Here are some of my custom **n8n nodes**, built specifically for the SaaS tools 
 - [**n8n-nodes-learningsuite**](https://github.com/rjsebening/n8n-nodes-learningsuite)  
   *LearningSuite automation – smart workflows for coaches & trainers.*
 
+- [**n8n-nodes-salessuite**](https://github.com/rjsebening/n8n-nodes-salessuite)  
+  *SalesSuite CRM automation – the simplest CRM on the market, built for the Setter–Closer principle.*  
+  _Official successor to Umsatz.io. Actively maintained._
+
 - [**n8n-nodes-umsatzio**](https://github.com/rjsebening/n8n-nodes-umsatzio)  
-  *Umsatz.io CRM automation - the first CRM built on the Setter-Closer principle*
+  *Umsatz.io CRM automation – the first CRM built on the Setter–Closer principle.*  
+  _Legacy integration (no longer actively developed)._
 
 - [**n8n-nodes-easybill-api**](https://github.com/rjsebening/n8n-nodes-easybill-api)  
   *Billing System automation with Easybill API*
