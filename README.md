@@ -64,7 +64,7 @@ I’m building towards a world where:
 
 ## 📬 Let’s Connect
 
-💻 Website: [systeme-optimieren.de](https://systeme-optimieren.de)  
+💻 Website: [www.joergsebening.de](https://www.joergsebening.de)  
 📸 Instagram: [@joerg_sebening](https://instagram.com/joerg_sebening)  
 💼 LinkedIn: [Jörg Sebening | Automatisierungen & Systeme](https://linkedin.com/in/rezkjoergsebening)  
 
