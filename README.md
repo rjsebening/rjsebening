@@ -77,6 +77,10 @@ n8n integration for **VibeTrack**, connecting tracking and attribution data with
 
 ## Other n8n Integrations
 
+### [ChatSuite](https://github.com/rjsebening/n8n-nodes-chatsuite)
+
+Connects ChatSuite with n8n to automate support tickets, messages, customer data, and your knowledge base.
+
 ### [OnePage](https://github.com/rjsebening/n8n-nodes-onepage)
 
 Connects OnePage with n8n to trigger and automate workflows around form submissions and leads.
